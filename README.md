@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Celal</h1>
 
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/959490630919262248/959529103143338054/TDIFF.jpg">
+    <img src="https://media.discordapp.net/attachments/959490630919262248/959532367729549382/zyro-image.png">
 </div>
 
 <div align="center">
