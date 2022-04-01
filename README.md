@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/571651448761352212" alt="Discord Profile"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.webtekno.com%2Fmicrosoft-discord-icin-10-milyar-dolari-gozden-cikardi-h107834.html&psig=AOvVaw3lcJeuOlzYgKzj-4mUOdG9&ust=1648926471712000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDgyffH8_YCFQAAAAAdAAAAABAl"></a>
+    <a href="https://discord.com/users/571651448761352212" alt="Discord Profile"><img src="https://lanyard.cnrad.dev/api/571651448761352212"></a>
 </div>
 
 <div align="center">
