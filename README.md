@@ -1,10 +1,6 @@
 <h1 align="center">Hello there, I'm Celal</h1>
 
 <div align="center">
-    <img src="">
-</div>
-
-<div align="center">
     <a href="https://discord.com/users/571651448761352212" alt="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/571651448761352212"></a>
 </div>
 
